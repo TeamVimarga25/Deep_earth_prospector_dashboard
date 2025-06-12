@@ -1,1 +1,1 @@
-# Deep_earth_prospector_dashboard
+# Deep_earth_prospector_platform
