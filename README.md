@@ -1,7 +1,7 @@
 <img width="1710" alt="Screenshot 2025-06-12 at 6 48 10 PM" src="https://github.com/user-attachments/assets/38166cb5-5a59-435c-9fef-c3d7ca0413af" /># Deep_earth_prospector_platform
 
 URL - https://hackathon-2.lovable.app 
-GEOTIFF file link -https://drive.google.com/file/d/1hMyVyjMi7OG8_HI65N8HnOOD832V9Lv3/view?usp=sharing
+GEOTIFF file link - https://drive.google.com/file/d/1p4_SxkQ-oP6Z8B-rFnIn1wmAr-8i4d5D/view?usp=sharing
 
 Deep Earth Prospector Platform
 
