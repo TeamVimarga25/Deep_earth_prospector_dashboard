@@ -4,6 +4,8 @@ URL - https://hackathon-2.lovable.app
 
 GEOTIFF file link - https://drive.google.com/file/d/1p4_SxkQ-oP6Z8B-rFnIn1wmAr-8i4d5D/view?usp=sharing
 
+Shapefile of results link - https://drive.google.com/file/d/1hMyVyjMi7OG8_HI65N8HnOOD832V9Lv3/view?usp=sharing
+
 Deep Earth Prospector Platform
 
 We have created a  platform to visualise the results from various ML algorithms for the commodities- Gold/Copper, Diamond and REE.
